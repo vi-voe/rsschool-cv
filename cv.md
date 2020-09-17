@@ -5,7 +5,7 @@
 **email:** vikvoe@gmail.com 
 
 ## Summary
-This is the most difficult =) 
+This is the most difficult, will add some information later.
 
 ## Skills
 * html
