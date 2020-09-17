@@ -1,8 +1,7 @@
 # Voevodkina Viktoria
 
 ## Contact Info
-**skype:** voevvi
-**email:** vikvoe@gmail.com 
+**e-mail:** vikvoe@gmail.com 
 
 ## Summary
 This is the most difficult, will add some information later.
@@ -17,8 +16,8 @@ This is the most difficult, will add some information later.
 I have an experience as a html developer. Last few years make animated presentations.
 
 ## Education
+BS in Information Security Management, 2011
 Sevastopol National University of Nuclear Energy and Industry
-- Bachelor's Degree in Information Security Management
 
 ## English
 Upper-Intermidiate (B2)
