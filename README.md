@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://github.com/vi-voe/rsschool-cv/cv
+# https://vi-voe.github.io/rsschool-cv/cv
